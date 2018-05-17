@@ -1,2 +1,2 @@
 # p53_model
-R code for the TP53 model project
+R script for the RNA-seq differential expression analysis at gene level
