@@ -1,4 +1,4 @@
-# p53_model
+# p53_model analysis pipeline
 R script for the RNA-seq differential expression analysis at gene level
 
 
